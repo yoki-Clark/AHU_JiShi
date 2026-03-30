@@ -45,7 +45,7 @@ HOLIDAYS_TO_WORK = {
 }
 
 FEATURE_NAMES = ["进入低活期", "活跃度回升", "午休波动", "全天活跃峰值"]
-OUTPUT_DIR = 'analysis_results'
+OUTPUT_DIR = '../analysis_results'
 
 
 def setup_plt_configs():
