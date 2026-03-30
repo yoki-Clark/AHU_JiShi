@@ -11,5 +11,6 @@
 - `\analysis_results`此目录为代码生成部分
   - `Forum_*`：为各时序图表
   - `Event_Report`：热点事件的md文件
-- `1.单日时序总览图`：用于生成时序图
-- `2.核心热点事件`：用于计算出热点事件
+- `\DataAnalysis`：此目录为数据分析代码
+  - `1.daily_overview`：用于生成时序图
+  - `2.event_detection`：用于计算出热点事件
